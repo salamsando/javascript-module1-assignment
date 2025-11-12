@@ -11,7 +11,8 @@ const favouriteColor = "Aqua Green";
 const currentYear = new Date().getFullYear();
 
 console.log(`Name: ${name}`);
-console.log('Favourite Color: ${favouriteColor}');
-console.log('Current Year: ${currentYear}');
+console.log(`Favourite Color: ${favouriteColor}`);
+console.log(`Current Year: ${currentYear}`);
+
 
 
